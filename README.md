@@ -12,6 +12,9 @@
 ## 原项目  
   
 Air Conditioner：https://github.com/YunYouJun/air-conditioner  
+
+## 在线体验  
+请移步二楼：https://kuole-o.github.io/airconditioner/
   
 ## 食用方法 
 > 1、配合 Hugo 使用，将 AirConditioner.html 放置在你的 Blog/layouts/shortcodes/ 目录下；  
