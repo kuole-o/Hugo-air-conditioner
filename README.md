@@ -14,9 +14,9 @@
 Air Conditioner：https://github.com/YunYouJun/air-conditioner  
 
 ## 在线体验  
-Hugo请移步二楼：https://blog.guole.fun/posts/airconditioner/
-Hexo请移步三楼：https://guole.fun/posts/AirConditioner/
-  
+Hugo请移步二楼：https://blog.guole.fun/posts/airconditioner/  
+Hexo请移步三楼：https://guole.fun/posts/AirConditioner/  
+   
 ## 食用方法 
 > 1、配合 Hugo 使用，将 AirConditioner.html 放置在你的 Blog/layouts/shortcodes/ 目录下；  
 ```html
